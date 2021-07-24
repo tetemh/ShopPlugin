@@ -1,0 +1,8 @@
+name: Shop
+version: Alpha
+main: fr.tetemh.shop.Main
+commands:
+  shop:
+    description: open shop
+  rs:
+    description: restart server
